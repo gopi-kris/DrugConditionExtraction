@@ -1,0 +1,510 @@
+condition_uri,condition_label,mesh_id,word_list_term
+http://id.nlm.nih.gov/mesh/D020177,idiopathic hypersomnia,D020177,pers
+http://id.nlm.nih.gov/mesh/D018458,persistent vegetative state,D018458,pers
+http://id.nlm.nih.gov/mesh/D047748,pituitary acth hypersecretion,D047748,pers
+http://id.nlm.nih.gov/mesh/D016750,stiff-person syndrome,D016750,pers
+http://id.nlm.nih.gov/mesh/D010015,"osteolysis, essential",D010015,essential
+http://id.nlm.nih.gov/mesh/D020329,essential tremor,D020329,essential
+http://id.nlm.nih.gov/mesh/D016706,"still's disease, adult-onset",D016706,adult
+http://id.nlm.nih.gov/mesh/D020265,"lead poisoning, nervous system, adult",D020265,adult
+http://id.nlm.nih.gov/mesh/D013226,status epilepticus,D013226,status
+http://id.nlm.nih.gov/mesh/D054882,antley-bixler syndrome phenotype,D054882,type
+http://id.nlm.nih.gov/mesh/D006014,glycogen storage disease type vii,D006014,type
+http://id.nlm.nih.gov/mesh/D006009,glycogen storage disease type ii,D006009,type
+http://id.nlm.nih.gov/mesh/D052120,glycogen storage disease type iib,D052120,type
+http://id.nlm.nih.gov/mesh/D006014,glycogen storage disease type vii,D006014,type
+http://id.nlm.nih.gov/mesh/D020215,"carotid artery, internal, dissection",D020215,section
+http://id.nlm.nih.gov/mesh/D020217,vertebral artery dissection,D020217,section
+http://id.nlm.nih.gov/mesh/D056846,weill-marchesani syndrome,D056846,march
+http://id.nlm.nih.gov/mesh/D054319,marchiafava-bignami disease,D054319,march
+http://id.nlm.nih.gov/mesh/D001184,articulation disorders,D001184,ulation
+http://id.nlm.nih.gov/mesh/D005207,fasciculation,D005207,ulation
+http://id.nlm.nih.gov/mesh/D000081030,myotoxicity,D000081030,toxicity
+http://id.nlm.nih.gov/mesh/D000081030,myotoxicity,D000081030,toxicity
+http://id.nlm.nih.gov/mesh/D020258,neurotoxicity syndromes,D020258,toxicity
+http://id.nlm.nih.gov/mesh/D017271,craniomandibular disorders,D017271,disorders
+http://id.nlm.nih.gov/mesh/D020966,"muscular disorders, atrophic",D020966,disorders
+http://id.nlm.nih.gov/mesh/D020967,myotonic disorders,D020967,disorders
+http://id.nlm.nih.gov/mesh/D013705,temporomandibular joint disorders,D013705,disorders
+http://id.nlm.nih.gov/mesh/D020268,"alcohol-induced disorders, nervous system",D020268,disorders
+http://id.nlm.nih.gov/mesh/D001848,"bone diseases, developmental",D001848,developmental
+http://id.nlm.nih.gov/mesh/D000082602,developmental dysplasia of the hip,D000082602,developmental
+http://id.nlm.nih.gov/mesh/D020242,"encephalomyelitis, eastern equine",D020242,eastern
+http://id.nlm.nih.gov/mesh/D000071378,bunion,D000071378,unio
+http://id.nlm.nih.gov/mesh/D050489,"bunion, tailor's",D050489,unio
+http://id.nlm.nih.gov/mesh/D006316,"hearing loss, high-frequency",D006316,high
+http://id.nlm.nih.gov/mesh/D006610,high pressure neurological syndrome,D006610,high
+http://id.nlm.nih.gov/mesh/D008065,lipoid proteinosis of urbach and wiethe,D008065,protein
+http://id.nlm.nih.gov/mesh/D057177,tdp-43 proteinopathies,D057177,protein
+http://id.nlm.nih.gov/mesh/D003027,cluster headache,D003027,headache
+http://id.nlm.nih.gov/mesh/D006261,headache,D006261,headache
+http://id.nlm.nih.gov/mesh/D020773,headache disorders,D020773,headache
+http://id.nlm.nih.gov/mesh/D051270,"headache disorders, primary",D051270,headache
+http://id.nlm.nih.gov/mesh/D051271,"headache disorders, secondary",D051271,headache
+http://id.nlm.nih.gov/mesh/D007319,sleep initiation and maintenance disorders,D007319,main
+http://id.nlm.nih.gov/mesh/D006315,"hearing loss, functional",D006315,functional
+http://id.nlm.nih.gov/mesh/D018304,"esthesioneuroblastoma, olfactory",D018304,fact
+http://id.nlm.nih.gov/mesh/D000857,olfaction disorders,D000857,fact
+http://id.nlm.nih.gov/mesh/D020431,olfactory nerve diseases,D020431,fact
+http://id.nlm.nih.gov/mesh/D061219,olfactory nerve injuries,D061219,fact
+http://id.nlm.nih.gov/mesh/D059266,bisphosphonate-associated osteonecrosis of the jaw,D059266,associated
+http://id.nlm.nih.gov/mesh/D006211,pantothenate kinase-associated neurodegeneration,D006211,associated
+http://id.nlm.nih.gov/mesh/D065166,sepsis-associated encephalopathy,D065166,associated
+http://id.nlm.nih.gov/mesh/D020263,"lead poisoning, nervous system",D020263,lead
+http://id.nlm.nih.gov/mesh/D020265,"lead poisoning, nervous system, adult",D020265,lead
+http://id.nlm.nih.gov/mesh/D020264,"lead poisoning, nervous system, childhood",D020264,lead
+http://id.nlm.nih.gov/mesh/D055013,"osteoarthritis, spine",D055013,pine
+http://id.nlm.nih.gov/mesh/D010871,pinealoma,D010871,pine
+http://id.nlm.nih.gov/mesh/D020163,ornithine carbamoyltransferase deficiency disease,D020163,transferase
+http://id.nlm.nih.gov/mesh/D054546,neuroacanthocytosis,D054546,cant
+http://id.nlm.nih.gov/mesh/D058502,pentalogy of cantrell,D058502,cant
+http://id.nlm.nih.gov/mesh/D000430,alcohol withdrawal delirium,D000430,draw
+http://id.nlm.nih.gov/mesh/D020270,alcohol withdrawal seizures,D020270,draw
+http://id.nlm.nih.gov/mesh/D008881,migraine disorders,D008881,migraine
+http://id.nlm.nih.gov/mesh/D020325,migraine with aura,D020325,migraine
+http://id.nlm.nih.gov/mesh/D020326,migraine without aura,D020326,migraine
+http://id.nlm.nih.gov/mesh/D060486,ophthalmoplegic migraine,D060486,migraine
+http://id.nlm.nih.gov/mesh/D055959,intervertebral disc degeneration,D055959,gene
+http://id.nlm.nih.gov/mesh/D010013,osteogenesis imperfecta,D010013,gene
+http://id.nlm.nih.gov/mesh/D061085,agenesis of corpus callosum,D061085,gene
+http://id.nlm.nih.gov/mesh/D004829,"epilepsy, generalized",D004829,gene
+http://id.nlm.nih.gov/mesh/D057174,frontotemporal lobar degeneration,D057174,gene
+http://id.nlm.nih.gov/mesh/D006732,horner syndrome,D006732,horn
+http://id.nlm.nih.gov/mesh/D058923,medial tibial stress syndrome,D058923,stress
+http://id.nlm.nih.gov/mesh/D058923,medial tibial stress syndrome,D058923,stress
+http://id.nlm.nih.gov/mesh/D056807,argininosuccinic aciduria,D056807,acid
+http://id.nlm.nih.gov/mesh/D029461,sialic acid storage disease,D029461,acid
+http://id.nlm.nih.gov/mesh/D007593,joint instability,D007593,ability
+http://id.nlm.nih.gov/mesh/D008607,intellectual disability,D008607,ability
+http://id.nlm.nih.gov/mesh/D018886,"aphasia, conduction",D018886,duction
+http://id.nlm.nih.gov/mesh/D009081,mucolipidoses,D009081,doses
+http://id.nlm.nih.gov/mesh/D005733,gangliosidoses,D005733,doses
+http://id.nlm.nih.gov/mesh/D020143,"gangliosidoses, gm2",D020143,doses
+http://id.nlm.nih.gov/mesh/D009081,mucolipidoses,D009081,doses
+http://id.nlm.nih.gov/mesh/D013106,sphingolipidoses,D013106,doses
+http://id.nlm.nih.gov/mesh/D018488,"bone demineralization, pathologic",D018488,ation
+http://id.nlm.nih.gov/mesh/D003649,"decalcification, pathologic",D003649,ation
+http://id.nlm.nih.gov/mesh/D000072039,fracture dislocation,D000072039,ation
+http://id.nlm.nih.gov/mesh/D006617,hip dislocation,D006617,ation
+http://id.nlm.nih.gov/mesh/D006618,"hip dislocation, congenital",D006618,ation
+http://id.nlm.nih.gov/mesh/D020803,"encephalitis, herpes simplex",D020803,simple
+http://id.nlm.nih.gov/mesh/D010003,osteoarthritis,D010003,osteoarthritis
+http://id.nlm.nih.gov/mesh/D015207,"osteoarthritis, hip",D015207,osteoarthritis
+http://id.nlm.nih.gov/mesh/D020370,"osteoarthritis, knee",D020370,osteoarthritis
+http://id.nlm.nih.gov/mesh/D055013,"osteoarthritis, spine",D055013,osteoarthritis
+http://id.nlm.nih.gov/mesh/D063169,dentofacial deformities,D063169,form
+http://id.nlm.nih.gov/mesh/D004863,equinus deformity,D004863,form
+http://id.nlm.nih.gov/mesh/D005530,foot deformities,D005530,form
+http://id.nlm.nih.gov/mesh/D005531,"foot deformities, acquired",D005531,form
+http://id.nlm.nih.gov/mesh/D005532,"foot deformities, congenital",D005532,form
+http://id.nlm.nih.gov/mesh/D009081,mucolipidoses,D009081,lipid
+http://id.nlm.nih.gov/mesh/D009081,mucolipidoses,D009081,lipid
+http://id.nlm.nih.gov/mesh/D013106,sphingolipidoses,D013106,lipid
+http://id.nlm.nih.gov/mesh/D054971,orthostatic intolerance,D054971,eran
+http://id.nlm.nih.gov/mesh/D004370,duane retraction syndrome,D004370,action
+http://id.nlm.nih.gov/mesh/D000857,olfaction disorders,D000857,action
+http://id.nlm.nih.gov/mesh/D019846,miller fisher syndrome,D019846,miller
+http://id.nlm.nih.gov/mesh/D065705,hemimegalencephaly,D065705,ence
+http://id.nlm.nih.gov/mesh/D016142,holoprosencephaly,D016142,ence
+http://id.nlm.nih.gov/mesh/D058627,megalencephaly,D058627,ence
+http://id.nlm.nih.gov/mesh/D017237,mitochondrial encephalomyopathies,D017237,ence
+http://id.nlm.nih.gov/mesh/D065708,porencephaly,D065708,ence
+http://id.nlm.nih.gov/mesh/D054061,ischemic contracture,D054061,chem
+http://id.nlm.nih.gov/mesh/D002545,brain ischemia,D002545,chem
+http://id.nlm.nih.gov/mesh/D020925,"hypoxia-ischemia, brain",D020925,chem
+http://id.nlm.nih.gov/mesh/D002546,"ischemic attack, transient",D002546,chem
+http://id.nlm.nih.gov/mesh/D054061,ischemic contracture,D054061,chem
+http://id.nlm.nih.gov/mesh/D010482,periapical abscess,D010482,cess
+http://id.nlm.nih.gov/mesh/D020436,accessory nerve diseases,D020436,cess
+http://id.nlm.nih.gov/mesh/D061227,accessory nerve injuries,D061227,cess
+http://id.nlm.nih.gov/mesh/D001922,brain abscess,D001922,cess
+http://id.nlm.nih.gov/mesh/D006970,disorders of excessive somnolence,D006970,cess
+http://id.nlm.nih.gov/mesh/D020163,ornithine carbamoyltransferase deficiency disease,D020163,transfer
+http://id.nlm.nih.gov/mesh/D054975,pallister-hall syndrome,D054975,list
+http://id.nlm.nih.gov/mesh/D013168,spondylolisthesis,D013168,list
+http://id.nlm.nih.gov/mesh/D008584,"meningitis, listeria",D008584,list
+http://id.nlm.nih.gov/mesh/D054975,pallister-hall syndrome,D054975,list
+http://id.nlm.nih.gov/mesh/D001925,"brain damage, chronic",D001925,damage
+http://id.nlm.nih.gov/mesh/D013341,sturge-weber syndrome,D013341,weber
+http://id.nlm.nih.gov/mesh/D016918,"arthritis, reactive",D016918,tive
+http://id.nlm.nih.gov/mesh/D006314,"hearing loss, conductive",D006314,tive
+http://id.nlm.nih.gov/mesh/D046089,"hearing loss, mixed conductive-sensorineural",D046089,tive
+http://id.nlm.nih.gov/mesh/D020271,"heredodegenerative disorders, nervous system",D020271,tive
+http://id.nlm.nih.gov/mesh/D019636,neurodegenerative diseases,D019636,tive
+http://id.nlm.nih.gov/mesh/D020140,"lysosomal storage diseases, nervous system",D020140,lysosomal
+http://id.nlm.nih.gov/mesh/D052879,subacute combined degeneration,D052879,combined
+http://id.nlm.nih.gov/mesh/D001139,arnold-chiari malformation,D001139,formation
+http://id.nlm.nih.gov/mesh/D020785,central nervous system vascular malformations,D020785,formation
+http://id.nlm.nih.gov/mesh/D002538,intracranial arteriovenous malformations,D002538,formation
+http://id.nlm.nih.gov/mesh/D054220,malformations of cortical development,D054220,formation
+http://id.nlm.nih.gov/mesh/D065703,"malformations of cortical development, group i",D065703,formation
+http://id.nlm.nih.gov/mesh/D000080443,diffuse intrinsic pontine glioma,D000080443,intrinsic
+http://id.nlm.nih.gov/mesh/D020919,"sleep disorders, intrinsic",D020919,intrinsic
+http://id.nlm.nih.gov/mesh/D030981,acro-osteolysis,D030981,ysis
+http://id.nlm.nih.gov/mesh/D020514,hypokalemic periodic paralysis,D020514,ysis
+http://id.nlm.nih.gov/mesh/D010014,osteolysis,D010014,ysis
+http://id.nlm.nih.gov/mesh/D010015,"osteolysis, essential",D010015,ysis
+http://id.nlm.nih.gov/mesh/D020513,"paralysis, hyperkalemic periodic",D020513,ysis
+http://id.nlm.nih.gov/mesh/D020271,"heredodegenerative disorders, nervous system",D020271,ative
+http://id.nlm.nih.gov/mesh/D019636,neurodegenerative diseases,D019636,ative
+http://id.nlm.nih.gov/mesh/D010149,"pain, postoperative",D010149,ative
+http://id.nlm.nih.gov/mesh/D018458,persistent vegetative state,D018458,ative
+http://id.nlm.nih.gov/mesh/D020422,mononeuropathies,D020422,none
+http://id.nlm.nih.gov/mesh/D054221,classical lissencephalies and subcortical band heterotopias,D054221,class
+http://id.nlm.nih.gov/mesh/D050336,mulibrey nanism,D050336,anism
+http://id.nlm.nih.gov/mesh/D003117,color vision defects,D003117,fects
+http://id.nlm.nih.gov/mesh/D009436,neural tube defects,D009436,fects
+http://id.nlm.nih.gov/mesh/D010004,"osteoarthropathy, primary hypertrophic",D010004,mary
+http://id.nlm.nih.gov/mesh/D018888,"aphasia, primary progressive",D018888,mary
+http://id.nlm.nih.gov/mesh/D051270,"headache disorders, primary",D051270,mary
+http://id.nlm.nih.gov/mesh/D054969,primary dysautonomias,D054969,mary
+http://id.nlm.nih.gov/mesh/D057178,primary progressive nonfluent aphasia,D057178,mary
+http://id.nlm.nih.gov/mesh/D001168,arthritis,D001168,arthritis
+http://id.nlm.nih.gov/mesh/D001169,"arthritis, experimental",D001169,arthritis
+http://id.nlm.nih.gov/mesh/D015210,"arthritis, gouty",D015210,arthritis
+http://id.nlm.nih.gov/mesh/D001170,"arthritis, infectious",D001170,arthritis
+http://id.nlm.nih.gov/mesh/D001171,"arthritis, juvenile",D001171,arthritis
+http://id.nlm.nih.gov/mesh/D000071257,emergence delirium,D000071257,emergence
+http://id.nlm.nih.gov/mesh/D000868,anterior compartment syndrome,D000868,part
+http://id.nlm.nih.gov/mesh/D000083182,chronic exertional compartment syndrome,D000083182,part
+http://id.nlm.nih.gov/mesh/D003161,compartment syndromes,D003161,part
+http://id.nlm.nih.gov/mesh/D007576,"jaw, edentulous, partially",D007576,part
+http://id.nlm.nih.gov/mesh/D000868,anterior compartment syndrome,D000868,part
+http://id.nlm.nih.gov/mesh/D009128,muscle spasticity,D009128,icity
+http://id.nlm.nih.gov/mesh/D000081030,myotoxicity,D000081030,icity
+http://id.nlm.nih.gov/mesh/D009128,muscle spasticity,D009128,icity
+http://id.nlm.nih.gov/mesh/D000081030,myotoxicity,D000081030,icity
+http://id.nlm.nih.gov/mesh/D020258,neurotoxicity syndromes,D020258,icity
+http://id.nlm.nih.gov/mesh/D016918,"arthritis, reactive",D016918,active
+http://id.nlm.nih.gov/mesh/D020423,median neuropathy,D020423,median
+http://id.nlm.nih.gov/mesh/D003025,clubfoot,D003025,foot
+http://id.nlm.nih.gov/mesh/D017719,diabetic foot,D017719,foot
+http://id.nlm.nih.gov/mesh/D005413,flatfoot,D005413,foot
+http://id.nlm.nih.gov/mesh/D005530,foot deformities,D005530,foot
+http://id.nlm.nih.gov/mesh/D005531,"foot deformities, acquired",D005531,foot
+http://id.nlm.nih.gov/mesh/D013166,spondylitis,D013166,spondylitis
+http://id.nlm.nih.gov/mesh/D013167,"spondylitis, ankylosing",D013167,spondylitis
+http://id.nlm.nih.gov/mesh/D007593,joint instability,D007593,stability
+http://id.nlm.nih.gov/mesh/D020512,"myopathy, central core",D020512,core
+http://id.nlm.nih.gov/mesh/D020512,"myopathy, central core",D020512,core
+http://id.nlm.nih.gov/mesh/D001478,basal cell nevus syndrome,D001478,cell
+http://id.nlm.nih.gov/mesh/D000070779,giant cell tumor of tendon sheath,D000070779,cell
+http://id.nlm.nih.gov/mesh/D006101,"granuloma, giant cell",D006101,cell
+http://id.nlm.nih.gov/mesh/D020804,"encephalitis, varicella zoster",D020804,cell
+http://id.nlm.nih.gov/mesh/D013700,giant cell arteritis,D013700,cell
+http://id.nlm.nih.gov/mesh/D017109,"akathisia, drug-induced",D017109,induced
+http://id.nlm.nih.gov/mesh/D020268,"alcohol-induced disorders, nervous system",D020268,induced
+http://id.nlm.nih.gov/mesh/D004409,"dyskinesia, drug-induced",D004409,induced
+http://id.nlm.nih.gov/mesh/D006317,"hearing loss, noise-induced",D006317,induced
+http://id.nlm.nih.gov/mesh/D012618,sea-blue histiocyte syndrome,D012618,blue
+http://id.nlm.nih.gov/mesh/D020953,neuroaspergillosis,D020953,gill
+http://id.nlm.nih.gov/mesh/D001139,arnold-chiari malformation,D001139,mation
+http://id.nlm.nih.gov/mesh/D020785,central nervous system vascular malformations,D020785,mation
+http://id.nlm.nih.gov/mesh/D002538,intracranial arteriovenous malformations,D002538,mation
+http://id.nlm.nih.gov/mesh/D054220,malformations of cortical development,D054220,mation
+http://id.nlm.nih.gov/mesh/D065703,"malformations of cortical development, group i",D065703,mation
+http://id.nlm.nih.gov/mesh/D020140,"lysosomal storage diseases, nervous system",D020140,sosomal
+http://id.nlm.nih.gov/mesh/D009081,mucolipidoses,D009081,coli
+http://id.nlm.nih.gov/mesh/D012600,scoliosis,D012600,coli
+http://id.nlm.nih.gov/mesh/D020814,"meningitis, escherichia coli",D020814,coli
+http://id.nlm.nih.gov/mesh/D009081,mucolipidoses,D009081,coli
+http://id.nlm.nih.gov/mesh/D056844,renal colic,D056844,coli
+http://id.nlm.nih.gov/mesh/D020165,carbamoyl-phosphate synthase i deficiency disease,D020165,ciency
+http://id.nlm.nih.gov/mesh/D054078,mevalonate kinase deficiency,D054078,ciency
+http://id.nlm.nih.gov/mesh/D052517,multiple sulfatase deficiency disease,D052517,ciency
+http://id.nlm.nih.gov/mesh/D020163,ornithine carbamoyltransferase deficiency disease,D020163,ciency
+http://id.nlm.nih.gov/mesh/D015324,pyruvate carboxylase deficiency disease,D015324,ciency
+http://id.nlm.nih.gov/mesh/D006610,high pressure neurological syndrome,D006610,ological
+http://id.nlm.nih.gov/mesh/D006610,high pressure neurological syndrome,D006610,press
+http://id.nlm.nih.gov/mesh/D006850,"hydrocephalus, normal pressure",D006850,press
+http://id.nlm.nih.gov/mesh/D009408,nerve compression syndromes,D009408,press
+http://id.nlm.nih.gov/mesh/D020204,"skull fracture, depressed",D020204,press
+http://id.nlm.nih.gov/mesh/D013117,spinal cord compression,D013117,press
+http://id.nlm.nih.gov/mesh/D003117,color vision defects,D003117,defects
+http://id.nlm.nih.gov/mesh/D009436,neural tube defects,D009436,defects
+http://id.nlm.nih.gov/mesh/D020806,central nervous system bacterial infections,D020806,bacteria
+http://id.nlm.nih.gov/mesh/D016920,"meningitis, bacterial",D016920,bacteria
+http://id.nlm.nih.gov/mesh/D049912,growth hormone-secreting pituitary adenoma,D049912,growth
+http://id.nlm.nih.gov/mesh/D020514,hypokalemic periodic paralysis,D020514,period
+http://id.nlm.nih.gov/mesh/D010245,"paralyses, familial periodic",D010245,period
+http://id.nlm.nih.gov/mesh/D020513,"paralysis, hyperkalemic periodic",D020513,period
+http://id.nlm.nih.gov/mesh/D010485,periapical periodontitis,D010485,period
+http://id.nlm.nih.gov/mesh/D010509,periodontal cyst,D010509,period
+http://id.nlm.nih.gov/mesh/D020943,"aids arteritis, central nervous system",D020943,system
+http://id.nlm.nih.gov/mesh/D020268,"alcohol-induced disorders, nervous system",D020268,system
+http://id.nlm.nih.gov/mesh/D020274,autoimmune diseases of the nervous system,D020274,system
+http://id.nlm.nih.gov/mesh/D001342,autonomic nervous system diseases,D001342,system
+http://id.nlm.nih.gov/mesh/D020806,central nervous system bacterial infections,D020806,system
+http://id.nlm.nih.gov/mesh/D012148,restless legs syndrome,D012148,less
+http://id.nlm.nih.gov/mesh/D006610,high pressure neurological syndrome,D006610,sure
+http://id.nlm.nih.gov/mesh/D006850,"hydrocephalus, normal pressure",D006850,sure
+http://id.nlm.nih.gov/mesh/D006958,"hyperostosis, cortical, congenital",D006958,tical
+http://id.nlm.nih.gov/mesh/D019575,"blindness, cortical",D019575,tical
+http://id.nlm.nih.gov/mesh/D000082643,cerebral cortical thinning,D000082643,tical
+http://id.nlm.nih.gov/mesh/D054221,classical lissencephalies and subcortical band heterotopias,D054221,tical
+http://id.nlm.nih.gov/mesh/D054220,malformations of cortical development,D054220,tical
+http://id.nlm.nih.gov/mesh/D000083182,chronic exertional compartment syndrome,D000083182,chronic
+http://id.nlm.nih.gov/mesh/D012080,chronic kidney disease-mineral and bone disorder,D012080,chronic
+http://id.nlm.nih.gov/mesh/D015673,"fatigue syndrome, chronic",D015673,chronic
+http://id.nlm.nih.gov/mesh/D017246,"ophthalmoplegia, chronic progressive external",D017246,chronic
+http://id.nlm.nih.gov/mesh/D001925,"brain damage, chronic",D001925,chronic
+http://id.nlm.nih.gov/mesh/D017593,kleine-levin syndrome,D017593,klein
+http://id.nlm.nih.gov/mesh/D000006,"abdomen, acute",D000006,acute
+http://id.nlm.nih.gov/mesh/D000071072,acute febrile encephalopathy,D000071072,acute
+http://id.nlm.nih.gov/mesh/D059787,acute pain,D059787,acute
+http://id.nlm.nih.gov/mesh/D004673,"encephalomyelitis, acute disseminated",D004673,acute
+http://id.nlm.nih.gov/mesh/D020199,"hematoma, subdural, acute",D020199,acute
+http://id.nlm.nih.gov/mesh/D000081030,myotoxicity,D000081030,toxic
+http://id.nlm.nih.gov/mesh/D000081030,myotoxicity,D000081030,toxic
+http://id.nlm.nih.gov/mesh/D020258,neurotoxicity syndromes,D020258,toxic
+http://id.nlm.nih.gov/mesh/D000081028,toxic optic neuropathy,D000081028,toxic
+http://id.nlm.nih.gov/mesh/D020241,"encephalomyelitis, western equine",D020241,western
+http://id.nlm.nih.gov/mesh/D021081,chronobiology disorders,D021081,biol
+http://id.nlm.nih.gov/mesh/D008375,maple syrup urine disease,D008375,urine
+http://id.nlm.nih.gov/mesh/D016098,gerstmann-straussler-scheinker disease,D016098,hein
+http://id.nlm.nih.gov/mesh/D005489,focal dermal hypoplasia,D005489,focal
+http://id.nlm.nih.gov/mesh/D007968,"leukoencephalopathy, progressive multifocal",D007968,focal
+http://id.nlm.nih.gov/mesh/D060050,"angina, stable",D060050,table
+http://id.nlm.nih.gov/mesh/D000789,"angina, unstable",D000789,table
+http://id.nlm.nih.gov/mesh/D010148,"pain, intractable",D010148,table
+http://id.nlm.nih.gov/mesh/D020274,autoimmune diseases of the nervous system,D020274,immune
+http://id.nlm.nih.gov/mesh/D000069281,autoimmune hypophysitis,D000069281,immune
+http://id.nlm.nih.gov/mesh/D020278,"demyelinating autoimmune diseases, cns",D020278,immune
+http://id.nlm.nih.gov/mesh/D004681,"encephalomyelitis, autoimmune, experimental",D004681,immune
+http://id.nlm.nih.gov/mesh/D020720,"myasthenia gravis, autoimmune, experimental",D020720,immune
+http://id.nlm.nih.gov/mesh/D010004,"osteoarthropathy, primary hypertrophic",D010004,primary
+http://id.nlm.nih.gov/mesh/D018888,"aphasia, primary progressive",D018888,primary
+http://id.nlm.nih.gov/mesh/D051270,"headache disorders, primary",D051270,primary
+http://id.nlm.nih.gov/mesh/D054969,primary dysautonomias,D054969,primary
+http://id.nlm.nih.gov/mesh/D057178,primary progressive nonfluent aphasia,D057178,primary
+http://id.nlm.nih.gov/mesh/D055959,intervertebral disc degeneration,D055959,ratio
+http://id.nlm.nih.gov/mesh/D057112,corneal perforation,D057112,ratio
+http://id.nlm.nih.gov/mesh/D057174,frontotemporal lobar degeneration,D057174,ratio
+http://id.nlm.nih.gov/mesh/D053421,hand-arm vibration syndrome,D053421,ratio
+http://id.nlm.nih.gov/mesh/D006527,hepatolenticular degeneration,D006527,ratio
+http://id.nlm.nih.gov/mesh/D055953,microscopic polyangiitis,D055953,yang
+http://id.nlm.nih.gov/mesh/D005266,femoral neoplasms,D005266,oral
+http://id.nlm.nih.gov/mesh/D046788,patellofemoral pain syndrome,D046788,oral
+http://id.nlm.nih.gov/mesh/D060048,slipped capital femoral epiphyses,D060048,oral
+http://id.nlm.nih.gov/mesh/D004833,"epilepsy, temporal lobe",D004833,oral
+http://id.nlm.nih.gov/mesh/D020428,femoral neuropathy,D020428,oral
+http://id.nlm.nih.gov/mesh/D058165,22q11 deletion syndrome,D058165,tion
+http://id.nlm.nih.gov/mesh/D018488,"bone demineralization, pathologic",D018488,tion
+http://id.nlm.nih.gov/mesh/D001862,bone resorption,D001862,tion
+http://id.nlm.nih.gov/mesh/D000083182,chronic exertional compartment syndrome,D000083182,tion
+http://id.nlm.nih.gov/mesh/D003649,"decalcification, pathologic",D003649,tion
+http://id.nlm.nih.gov/mesh/D001848,"bone diseases, developmental",D001848,develop
+http://id.nlm.nih.gov/mesh/D000082602,developmental dysplasia of the hip,D000082602,develop
+http://id.nlm.nih.gov/mesh/D007805,language development disorders,D007805,develop
+http://id.nlm.nih.gov/mesh/D054220,malformations of cortical development,D054220,develop
+http://id.nlm.nih.gov/mesh/D065703,"malformations of cortical development, group i",D065703,develop
+http://id.nlm.nih.gov/mesh/D060050,"angina, stable",D060050,able
+http://id.nlm.nih.gov/mesh/D000789,"angina, unstable",D000789,able
+http://id.nlm.nih.gov/mesh/D010148,"pain, intractable",D010148,able
+http://id.nlm.nih.gov/mesh/D038061,"lower extremity deformities, congenital",D038061,lower
+http://id.nlm.nih.gov/mesh/D006316,"hearing loss, high-frequency",D006316,frequency
+http://id.nlm.nih.gov/mesh/D057971,"anterior capsular rupture, ocular",D057971,rupt
+http://id.nlm.nih.gov/mesh/D057851,"posterior capsular rupture, ocular",D057851,rupt
+http://id.nlm.nih.gov/mesh/D000070779,giant cell tumor of tendon sheath,D000070779,heat
+http://id.nlm.nih.gov/mesh/D000070779,giant cell tumor of tendon sheath,D000070779,heat
+http://id.nlm.nih.gov/mesh/D018317,nerve sheath neoplasms,D018317,heat
+http://id.nlm.nih.gov/mesh/D001169,"arthritis, experimental",D001169,mental
+http://id.nlm.nih.gov/mesh/D001848,"bone diseases, developmental",D001848,mental
+http://id.nlm.nih.gov/mesh/D000082602,developmental dysplasia of the hip,D000082602,mental
+http://id.nlm.nih.gov/mesh/D004681,"encephalomyelitis, autoimmune, experimental",D004681,mental
+http://id.nlm.nih.gov/mesh/D038901,"mental retardation, x-linked",D038901,mental
+http://id.nlm.nih.gov/mesh/D016706,"still's disease, adult-onset",D016706,onset
+http://id.nlm.nih.gov/mesh/D000067454,childhood-onset fluency disorder,D000067454,onset
+http://id.nlm.nih.gov/mesh/D015526,aids dementia complex,D015526,complex
+http://id.nlm.nih.gov/mesh/D020918,complex regional pain syndromes,D020918,complex
+http://id.nlm.nih.gov/mesh/D017029,"epilepsy, complex partial",D017029,complex
+http://id.nlm.nih.gov/mesh/D015325,pyruvate dehydrogenase complex deficiency disease,D015325,complex
+http://id.nlm.nih.gov/mesh/D017109,"akathisia, drug-induced",D017109,induce
+http://id.nlm.nih.gov/mesh/D020268,"alcohol-induced disorders, nervous system",D020268,induce
+http://id.nlm.nih.gov/mesh/D004409,"dyskinesia, drug-induced",D004409,induce
+http://id.nlm.nih.gov/mesh/D006317,"hearing loss, noise-induced",D006317,induce
+http://id.nlm.nih.gov/mesh/D065703,"malformations of cortical development, group i",D065703,group
+http://id.nlm.nih.gov/mesh/D054081,"malformations of cortical development, group ii",D054081,group
+http://id.nlm.nih.gov/mesh/D065704,"malformations of cortical development, group iii",D065704,group
+http://id.nlm.nih.gov/mesh/D001849,"bone diseases, endocrine",D001849,endo
+http://id.nlm.nih.gov/mesh/D000070779,giant cell tumor of tendon sheath,D000070779,endo
+http://id.nlm.nih.gov/mesh/D037081,posterior tibial tendon dysfunction,D037081,endo
+http://id.nlm.nih.gov/mesh/D053682,tendon entrapment,D053682,endo
+http://id.nlm.nih.gov/mesh/D000070779,giant cell tumor of tendon sheath,D000070779,endo
+http://id.nlm.nih.gov/mesh/D012415,rubinstein-taybi syndrome,D012415,tein
+http://id.nlm.nih.gov/mesh/D008065,lipoid proteinosis of urbach and wiethe,D008065,tein
+http://id.nlm.nih.gov/mesh/D012415,rubinstein-taybi syndrome,D012415,tein
+http://id.nlm.nih.gov/mesh/D057177,tdp-43 proteinopathies,D057177,tein
+http://id.nlm.nih.gov/mesh/D016918,"arthritis, reactive",D016918,reactive
+http://id.nlm.nih.gov/mesh/D020236,"amnesia, transient global",D020236,global
+http://id.nlm.nih.gov/mesh/D046089,"hearing loss, mixed conductive-sensorineural",D046089,mixed
+http://id.nlm.nih.gov/mesh/D014884,waterhouse-friderichsen syndrome,D014884,water
+http://id.nlm.nih.gov/mesh/D007870,leg length inequality,D007870,equal
+http://id.nlm.nih.gov/mesh/D004672,"encephalitis, japanese",D004672,japan
+http://id.nlm.nih.gov/mesh/D012779,short rib-polydactyly syndrome,D012779,short
+http://id.nlm.nih.gov/mesh/D006501,hepatic encephalopathy,D006501,hepatic
+http://id.nlm.nih.gov/mesh/D018304,"esthesioneuroblastoma, olfactory",D018304,last
+http://id.nlm.nih.gov/mesh/D020362,paraneoplastic cerebellar degeneration,D020362,last
+http://id.nlm.nih.gov/mesh/D020364,paraneoplastic polyneuropathy,D020364,last
+http://id.nlm.nih.gov/mesh/D020361,"paraneoplastic syndromes, nervous system",D020361,last
+http://id.nlm.nih.gov/mesh/D005097,"exostoses, multiple hereditary",D005097,tiple
+http://id.nlm.nih.gov/mesh/D009103,multiple sclerosis,D009103,tiple
+http://id.nlm.nih.gov/mesh/D020528,"multiple sclerosis, chronic progressive",D020528,tiple
+http://id.nlm.nih.gov/mesh/D020529,"multiple sclerosis, relapsing-remitting",D020529,tiple
+http://id.nlm.nih.gov/mesh/D052517,multiple sulfatase deficiency disease,D052517,tiple
+http://id.nlm.nih.gov/mesh/D009459,neuroleptic malignant syndrome,D009459,role
+http://id.nlm.nih.gov/mesh/D020274,autoimmune diseases of the nervous system,D020274,mune
+http://id.nlm.nih.gov/mesh/D000069281,autoimmune hypophysitis,D000069281,mune
+http://id.nlm.nih.gov/mesh/D020278,"demyelinating autoimmune diseases, cns",D020278,mune
+http://id.nlm.nih.gov/mesh/D004681,"encephalomyelitis, autoimmune, experimental",D004681,mune
+http://id.nlm.nih.gov/mesh/D020720,"myasthenia gravis, autoimmune, experimental",D020720,mune
+http://id.nlm.nih.gov/mesh/D060750,bone anteversion,D060750,sion
+http://id.nlm.nih.gov/mesh/D060751,bone retroversion,D060751,sion
+http://id.nlm.nih.gov/mesh/D007102,immersion foot,D007102,sion
+http://id.nlm.nih.gov/mesh/D059325,intra-abdominal hypertension,D059325,sion
+http://id.nlm.nih.gov/mesh/D018979,"myositis, inclusion body",D018979,sion
+http://id.nlm.nih.gov/mesh/D013167,"spondylitis, ankylosing",D013167,ankylosing
+http://id.nlm.nih.gov/mesh/D059352,musculoskeletal pain,D059352,pain
+http://id.nlm.nih.gov/mesh/D009209,myofascial pain syndromes,D009209,pain
+http://id.nlm.nih.gov/mesh/D046788,patellofemoral pain syndrome,D046788,pain
+http://id.nlm.nih.gov/mesh/D059388,pelvic girdle pain,D059388,pain
+http://id.nlm.nih.gov/mesh/D020069,shoulder pain,D020069,pain
+http://id.nlm.nih.gov/mesh/D059266,bisphosphonate-associated osteonecrosis of the jaw,D059266,assoc
+http://id.nlm.nih.gov/mesh/D006211,pantothenate kinase-associated neurodegeneration,D006211,assoc
+http://id.nlm.nih.gov/mesh/D065166,sepsis-associated encephalopathy,D065166,assoc
+http://id.nlm.nih.gov/mesh/D059325,intra-abdominal hypertension,D059325,intra
+http://id.nlm.nih.gov/mesh/D000074042,cerebral intraventricular hemorrhage,D000074042,intra
+http://id.nlm.nih.gov/mesh/D046648,"hematoma, subdural, intracranial",D046648,intra
+http://id.nlm.nih.gov/mesh/D059325,intra-abdominal hypertension,D059325,intra
+http://id.nlm.nih.gov/mesh/D002532,intracranial aneurysm,D002532,intra
+http://id.nlm.nih.gov/mesh/D061227,accessory nerve injuries,D061227,injuries
+http://id.nlm.nih.gov/mesh/D001930,brain injuries,D001930,injuries
+http://id.nlm.nih.gov/mesh/D000070642,"brain injuries, traumatic",D000070642,injuries
+http://id.nlm.nih.gov/mesh/D020212,carotid artery injuries,D020212,injuries
+http://id.nlm.nih.gov/mesh/D065306,corneal injuries,D065306,injuries
+http://id.nlm.nih.gov/mesh/D009188,"myelitis, transverse",D009188,verse
+http://id.nlm.nih.gov/mesh/D001847,bone diseases,D001847,disease
+http://id.nlm.nih.gov/mesh/D001848,"bone diseases, developmental",D001848,disease
+http://id.nlm.nih.gov/mesh/D001849,"bone diseases, endocrine",D001849,disease
+http://id.nlm.nih.gov/mesh/D001850,"bone diseases, infectious",D001850,disease
+http://id.nlm.nih.gov/mesh/D001851,"bone diseases, metabolic",D001851,disease
+http://id.nlm.nih.gov/mesh/D020966,"muscular disorders, atrophic",D020966,trophic
+http://id.nlm.nih.gov/mesh/D010004,"osteoarthropathy, primary hypertrophic",D010004,trophic
+http://id.nlm.nih.gov/mesh/D010005,"osteoarthropathy, secondary hypertrophic",D010005,trophic
+http://id.nlm.nih.gov/mesh/D000690,amyotrophic lateral sclerosis,D000690,trophic
+http://id.nlm.nih.gov/mesh/D020966,"muscular disorders, atrophic",D020966,trophic
+http://id.nlm.nih.gov/mesh/D009081,mucolipidoses,D009081,dose
+http://id.nlm.nih.gov/mesh/D005733,gangliosidoses,D005733,dose
+http://id.nlm.nih.gov/mesh/D020143,"gangliosidoses, gm2",D020143,dose
+http://id.nlm.nih.gov/mesh/D009081,mucolipidoses,D009081,dose
+http://id.nlm.nih.gov/mesh/D013106,sphingolipidoses,D013106,dose
+http://id.nlm.nih.gov/mesh/D018979,"myositis, inclusion body",D018979,body
+http://id.nlm.nih.gov/mesh/D020961,lewy body disease,D020961,body
+http://id.nlm.nih.gov/mesh/D018979,"myositis, inclusion body",D018979,body
+http://id.nlm.nih.gov/mesh/D020918,complex regional pain syndromes,D020918,regional
+http://id.nlm.nih.gov/mesh/D010005,"osteoarthropathy, secondary hypertrophic",D010005,second
+http://id.nlm.nih.gov/mesh/D051271,"headache disorders, secondary",D051271,second
+http://id.nlm.nih.gov/mesh/D010302,"parkinson disease, secondary",D010302,second
+http://id.nlm.nih.gov/mesh/D004833,"epilepsy, temporal lobe",D004833,temporal
+http://id.nlm.nih.gov/mesh/D057180,frontotemporal dementia,D057180,temporal
+http://id.nlm.nih.gov/mesh/D057174,frontotemporal lobar degeneration,D057174,temporal
+http://id.nlm.nih.gov/mesh/D017109,"akathisia, drug-induced",D017109,drug
+http://id.nlm.nih.gov/mesh/D000069279,drug resistant epilepsy,D000069279,drug
+http://id.nlm.nih.gov/mesh/D004409,"dyskinesia, drug-induced",D004409,drug
+http://id.nlm.nih.gov/mesh/D060426,anti-n-methyl-d-aspartate receptor encephalitis,D060426,receptor
+http://id.nlm.nih.gov/mesh/D017042,"phenylketonuria, maternal",D017042,mater
+http://id.nlm.nih.gov/mesh/D009128,muscle spasticity,D009128,past
+http://id.nlm.nih.gov/mesh/D009128,muscle spasticity,D009128,past
+http://id.nlm.nih.gov/mesh/D020336,"paraparesis, spastic",D020336,past
+http://id.nlm.nih.gov/mesh/D015493,"paraparesis, tropical spastic",D015493,past
+http://id.nlm.nih.gov/mesh/D015419,"spastic paraplegia, hereditary",D015419,past
+http://id.nlm.nih.gov/mesh/D012080,chronic kidney disease-mineral and bone disorder,D012080,order
+http://id.nlm.nih.gov/mesh/D017271,craniomandibular disorders,D017271,order
+http://id.nlm.nih.gov/mesh/D020966,"muscular disorders, atrophic",D020966,order
+http://id.nlm.nih.gov/mesh/D020967,myotonic disorders,D020967,order
+http://id.nlm.nih.gov/mesh/D013705,temporomandibular joint disorders,D013705,order
+http://id.nlm.nih.gov/mesh/D060750,bone anteversion,D060750,ever
+http://id.nlm.nih.gov/mesh/D012213,rheumatic fever,D012213,ever
+http://id.nlm.nih.gov/mesh/D014901,west nile fever,D014901,ever
+http://id.nlm.nih.gov/mesh/D020242,"encephalomyelitis, eastern equine",D020242,east
+http://id.nlm.nih.gov/mesh/D020187,rem sleep behavior disorder,D020187,behavior
+http://id.nlm.nih.gov/mesh/D012892,sleep deprivation,D012892,riva
+http://id.nlm.nih.gov/mesh/D011111,polymyalgia rheumatica,D011111,rheumatic
+http://id.nlm.nih.gov/mesh/D012216,rheumatic diseases,D012216,rheumatic
+http://id.nlm.nih.gov/mesh/D012213,rheumatic fever,D012213,rheumatic
+http://id.nlm.nih.gov/mesh/D012214,rheumatic heart disease,D012214,rheumatic
+http://id.nlm.nih.gov/mesh/D012215,rheumatic nodule,D012215,rheumatic
+http://id.nlm.nih.gov/mesh/D000070603,coxa magna,D000070603,magna
+http://id.nlm.nih.gov/mesh/D001169,"arthritis, experimental",D001169,experiment
+http://id.nlm.nih.gov/mesh/D004681,"encephalomyelitis, autoimmune, experimental",D004681,experiment
+http://id.nlm.nih.gov/mesh/D020720,"myasthenia gravis, autoimmune, experimental",D020720,experiment
+http://id.nlm.nih.gov/mesh/D020721,"nervous system autoimmune disease, experimental",D020721,experiment
+http://id.nlm.nih.gov/mesh/D009444,"neuritis, autoimmune, experimental",D009444,experiment
+http://id.nlm.nih.gov/mesh/D001848,"bone diseases, developmental",D001848,development
+http://id.nlm.nih.gov/mesh/D000082602,developmental dysplasia of the hip,D000082602,development
+http://id.nlm.nih.gov/mesh/D007805,language development disorders,D007805,development
+http://id.nlm.nih.gov/mesh/D054220,malformations of cortical development,D054220,development
+http://id.nlm.nih.gov/mesh/D065703,"malformations of cortical development, group i",D065703,development
+http://id.nlm.nih.gov/mesh/D006212,hallucinations,D006212,nations
+http://id.nlm.nih.gov/mesh/D006316,"hearing loss, high-frequency",D006316,quency
+http://id.nlm.nih.gov/mesh/D036981,"fasciitis, plantar",D036981,plant
+http://id.nlm.nih.gov/mesh/D000071380,"fibromatosis, plantar",D000071380,plant
+http://id.nlm.nih.gov/mesh/D000071380,"fibromatosis, plantar",D000071380,plant
+http://id.nlm.nih.gov/mesh/D031845,hajdu-cheney syndrome,D031845,chen
+http://id.nlm.nih.gov/mesh/D020388,"muscular dystrophy, duchenne",D020388,chen
+http://id.nlm.nih.gov/mesh/D020388,"muscular dystrophy, duchenne",D020388,chen
+http://id.nlm.nih.gov/mesh/D010013,osteogenesis imperfecta,D010013,genes
+http://id.nlm.nih.gov/mesh/D061085,agenesis of corpus callosum,D061085,genes
+http://id.nlm.nih.gov/mesh/D004370,duane retraction syndrome,D004370,traction
+http://id.nlm.nih.gov/mesh/D003655,decerebrate state,D003655,rate
+http://id.nlm.nih.gov/mesh/D015192,infratentorial neoplasms,D015192,rate
+http://id.nlm.nih.gov/mesh/D015173,supratentorial neoplasms,D015173,rate
+http://id.nlm.nih.gov/mesh/D018333,"odontogenic cyst, calcifying",D018333,ying
+http://id.nlm.nih.gov/mesh/D000071378,bunion,D000071378,union
+http://id.nlm.nih.gov/mesh/D050489,"bunion, tailor's",D050489,union
+http://id.nlm.nih.gov/mesh/D006833,hydrarthrosis,D006833,hydra
+http://id.nlm.nih.gov/mesh/D006832,hydranencephaly,D006832,hydra
+http://id.nlm.nih.gov/mesh/D012213,rheumatic fever,D012213,fever
+http://id.nlm.nih.gov/mesh/D014901,west nile fever,D014901,fever
+http://id.nlm.nih.gov/mesh/D004204,joint dislocations,D004204,tions
+http://id.nlm.nih.gov/mesh/D020526,brain stem infarctions,D020526,tions
+http://id.nlm.nih.gov/mesh/D020806,central nervous system bacterial infections,D020806,tions
+http://id.nlm.nih.gov/mesh/D020314,central nervous system fungal infections,D020314,tions
+http://id.nlm.nih.gov/mesh/D002494,central nervous system infections,D002494,tions
+http://id.nlm.nih.gov/mesh/D000788,"angina pectoris, variant",D000788,rian
+http://id.nlm.nih.gov/mesh/D049290,"tay-sachs disease, ab variant",D049290,rian
+http://id.nlm.nih.gov/mesh/D054882,antley-bixler syndrome phenotype,D054882,phen
+http://id.nlm.nih.gov/mesh/D017042,"phenylketonuria, maternal",D017042,phen
+http://id.nlm.nih.gov/mesh/D010661,phenylketonurias,D010661,phen
+http://id.nlm.nih.gov/mesh/D001848,"bone diseases, developmental",D001848,opment
+http://id.nlm.nih.gov/mesh/D000082602,developmental dysplasia of the hip,D000082602,opment
+http://id.nlm.nih.gov/mesh/D007805,language development disorders,D007805,opment
+http://id.nlm.nih.gov/mesh/D054220,malformations of cortical development,D054220,opment
+http://id.nlm.nih.gov/mesh/D065703,"malformations of cortical development, group i",D065703,opment
+http://id.nlm.nih.gov/mesh/D001849,"bone diseases, endocrine",D001849,endocrine
+http://id.nlm.nih.gov/mesh/D059345,cerebral small vessel diseases,D059345,small
+http://id.nlm.nih.gov/mesh/D000071075,small fiber neuropathy,D000071075,small
+http://id.nlm.nih.gov/mesh/D007870,leg length inequality,D007870,length
+http://id.nlm.nih.gov/mesh/D001847,bone diseases,D001847,ease
+http://id.nlm.nih.gov/mesh/D001848,"bone diseases, developmental",D001848,ease
+http://id.nlm.nih.gov/mesh/D001849,"bone diseases, endocrine",D001849,ease
+http://id.nlm.nih.gov/mesh/D001850,"bone diseases, infectious",D001850,ease
+http://id.nlm.nih.gov/mesh/D001851,"bone diseases, metabolic",D001851,ease
+http://id.nlm.nih.gov/mesh/D000072042,salter-harris fractures,D000072042,alter
+http://id.nlm.nih.gov/mesh/D001304,"auditory diseases, central",D001304,tory
+http://id.nlm.nih.gov/mesh/D001308,auditory perceptual disorders,D001308,tory
+http://id.nlm.nih.gov/mesh/D018304,"esthesioneuroblastoma, olfactory",D018304,tory
+http://id.nlm.nih.gov/mesh/D020431,olfactory nerve diseases,D020431,tory
+http://id.nlm.nih.gov/mesh/D061219,olfactory nerve injuries,D061219,tory
+http://id.nlm.nih.gov/mesh/D001851,"bone diseases, metabolic",D001851,metabolic
+http://id.nlm.nih.gov/mesh/D001928,"brain diseases, metabolic",D001928,metabolic
+http://id.nlm.nih.gov/mesh/D020739,"brain diseases, metabolic, inborn",D020739,metabolic
+http://id.nlm.nih.gov/mesh/D056846,weill-marchesani syndrome,D056846,arch
+http://id.nlm.nih.gov/mesh/D054319,marchiafava-bignami disease,D054319,arch
+http://id.nlm.nih.gov/mesh/D001172,"arthritis, rheumatoid",D001172,rheumatoid
+http://id.nlm.nih.gov/mesh/D012218,rheumatoid nodule,D012218,rheumatoid
+http://id.nlm.nih.gov/mesh/D056653,rheumatoid vasculitis,D056653,rheumatoid
+http://id.nlm.nih.gov/mesh/D037081,posterior tibial tendon dysfunction,D037081,function
+http://id.nlm.nih.gov/mesh/D013706,temporomandibular joint dysfunction syndrome,D013706,function
+http://id.nlm.nih.gov/mesh/D006315,"hearing loss, functional",D006315,function
+http://id.nlm.nih.gov/mesh/D013706,temporomandibular joint dysfunction syndrome,D013706,function

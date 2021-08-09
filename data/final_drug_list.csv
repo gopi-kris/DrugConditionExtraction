@@ -1,0 +1,19 @@
+drug_uri,drug_label,mesh_id,word_list_term
+http://id.nlm.nih.gov/mesh/D003520,cyclophosphamide,D003520,cyclophosphamide
+http://id.nlm.nih.gov/mesh/D004008,diclofenac,D004008,diclofenac
+http://id.nlm.nih.gov/mesh/D007660,ketoprofen,D007660,ketoprofen
+http://id.nlm.nih.gov/mesh/D010653,phenylbutazone,D010653,phenylbutazone
+http://id.nlm.nih.gov/mesh/D000077239,meloxicam,D000077239,meloxicam
+http://id.nlm.nih.gov/mesh/D016572,cyclosporine,D016572,cyclosporine
+http://id.nlm.nih.gov/mesh/D007052,ibuprofen,D007052,ibuprofen
+http://id.nlm.nih.gov/mesh/C010395,acetylsalicylic acid lysinate,C010395,acetylsalicylic
+http://id.nlm.nih.gov/mesh/D002220,carbamazepine,D002220,carbamazepine
+http://id.nlm.nih.gov/mesh/D004917,erythromycin,D004917,erythromycin
+http://id.nlm.nih.gov/mesh/D009288,naproxen,D009288,naproxen
+http://id.nlm.nih.gov/mesh/D008528,mefenamic acid,D008528,mefenamic
+http://id.nlm.nih.gov/mesh/D002110,caffeine,D002110,caffeine
+http://id.nlm.nih.gov/mesh/C007005,carprofen,C007005,carprofen
+http://id.nlm.nih.gov/mesh/D009675,novobiocin,D009675,novobiocin
+http://id.nlm.nih.gov/mesh/D013629,tamoxifen,D013629,tamoxifen
+http://id.nlm.nih.gov/mesh/C009500,tolfenamic acid,C009500,tolfenamic
+http://id.nlm.nih.gov/mesh/D000082,acetaminophen,D000082,acetaminophen

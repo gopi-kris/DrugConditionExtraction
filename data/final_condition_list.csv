@@ -1,0 +1,9 @@
+condition_uri,condition_label,mesh_id,word_list_term
+http://id.nlm.nih.gov/mesh/D006261,headache,D006261,headache
+http://id.nlm.nih.gov/mesh/D013167,"spondylitis, ankylosing",D013167,ankylosing
+http://id.nlm.nih.gov/mesh/D012216,rheumatic diseases,D012216,rheumatic
+http://id.nlm.nih.gov/mesh/D001172,"arthritis, rheumatoid",D001172,rheumatoid
+http://id.nlm.nih.gov/mesh/D059352,musculoskeletal pain,D059352,pain
+http://id.nlm.nih.gov/mesh/D001168,arthritis,D001168,arthritis
+http://id.nlm.nih.gov/mesh/D010003,osteoarthritis,D010003,osteoarthritis
+http://id.nlm.nih.gov/mesh/D008881,migraine disorders,D008881,migraine
